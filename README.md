@@ -26,7 +26,7 @@ A personal portfolio website to showcase my projects, skills, and contact detail
 
 ## 🔗 Live Demo
 
-👉 https://your-portfolio-link.vercel.app/
+👉 [https://your-portfolio-link.vercel.app/](https://portfolio-website-one-zeta-28.vercel.app/projects.html)
 
 ---
 
